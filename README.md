@@ -12,5 +12,9 @@ To run the notebooks you need:
 1. You will need a Kaggle account to access and execute the notebooks.
 2. Kaggle gpu
 
+# LICENSE
+
+[MIT LICENSE](LICENSE)
+
 # Note
 This repository is currently under development, and more models and features will be added soon.
