@@ -5,7 +5,9 @@ The notebooks provided are ready to run on Kaggle with minimal setup.
 
 # Available Models
 1. [Artistic Neural Style Transfer](): Implementation of [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
-2. [FastStyleNeuralStyleTransfer](): Implementation of []
+2. [FastStyleNeuralStyleTransfer](): Implementation of [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
+3. [ArbitaryStyleTransfer](): Implementation of [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
+4. [UniversalStyleTransfer](): Implementation of 
 
 # Requirements
 To run the notebooks you need:
