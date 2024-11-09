@@ -4,10 +4,10 @@ These models allow the transformation of content images to match the artistic st
 The notebooks provided are ready to run on Kaggle with minimal setup.
 
 # Available Models
-1. [Artistic Neural Style Transfer](): Implementation of [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
-2. [FastStyleNeuralStyleTransfer](): Implementation of [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
-3. [ArbitaryStyleTransfer](): Implementation of [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
-4. [UniversalStyleTransfer](): Implementation of 
+1. [Artistic Neural Style Transfer](https://www.kaggle.com/code/shoabahamed/artisticneuralstyletransfer): Implementation of [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+2. [FastStyleNeuralStyleTransfer](https://www.kaggle.com/code/shoabahamed/faststyleneuralstyletransfer): Implementation of [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
+3. [ArbitaryStyleTransfer](https://www.kaggle.com/code/shoabahamed/arbitarystyletransfer): Implementation of [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
+4. [UniversalStyleTransfer](https://www.kaggle.com/code/shoabahamed/universal-style-transfer): Implementation of [Universal Style Transfer via Feature Transforms](http://arxiv.org/abs/1705.08086)
 
 # Requirements
 To run the notebooks you need:
